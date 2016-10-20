@@ -1,7 +1,7 @@
 # STJSON
 A JSON Parser in Swift 3 compliant with RFC 7159
 
-STJSON was writting along the article [Parsing JSON is a Minefield]().
+STJSON was written along with the article [Parsing JSON is a Minefield](http://seriot.ch/parsing_json.php).
 
 Basic usage:
 
